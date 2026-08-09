@@ -1,2 +1,4 @@
 | Date Found | Match Type | Price | Neighborhood | Source URL | Key Features |
 |---|---|---|---|---|---|
+| 2026-08-09 | Near Match (missing/unconfirmed: washer-dryer+dishwasher [Unconfirmed], natural light [Unconfirmed]) | €269,000 | Cinecittà Est | https://www.immobiliare.it/annunci/129263044/ | Trilocale (2 camere), 2 bagni (uno finestrato), 5° piano con ascensore, balcone abitabile vista parco, aria condizionata in tutte le stanze, cabina armadio, posto auto scoperto, vicino Metro A Anagnina |
+| 2026-08-09 | Near Match (missing/unconfirmed: 2nd bathroom [Confirmed Absent - only 1 bagno], washer-dryer+dishwasher [Unconfirmed]) | €250,000 | Casal del Marmo | https://www.immobiliare.it/annunci/128848280/ | Trilocale (2 camere), 1 bagno, 3° piano/piano alto, terrazza perimetrale doppia esposizione, aria condizionata, molto luminoso, cantina inclusa, possibilità box auto |
